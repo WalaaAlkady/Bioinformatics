@@ -24,6 +24,6 @@ def MultipleSeqAlign(folderPath , fastaFileName):
 
 
 # Main:
-folderPath = r"C:\\Users\\lulud\\OneDrive\\Desktop\\New folder\\"
+folderPath = r"C:\\"
 fastaFileName = "opuntia"
 MultipleSeqAlign(folderPath , fastaFileName)
