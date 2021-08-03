@@ -1,0 +1,19 @@
+Sequences Number (n): 5
+
+DNA sequences:
+TTACCTTAAC
+GATGTCTGTC
+CCGGCGTTAG
+CACTAACGAG
+CGTCAGAGGT
+
+Motif length (K): 4
+
+
+Output (Motifs):
+ACCT
+ATGT
+GCGT
+ACGA
+AGGT
+
