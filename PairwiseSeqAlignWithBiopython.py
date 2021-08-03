@@ -36,8 +36,8 @@ def globalAffinGapAlig (seq1 , seq2 , match , mismatch , open , extension):
 
 
 # Main:
-seq1 = SeqIO.read("C:\\Users\\lulud\\OneDrive\\Desktop\\New folder\\alpha.faa", "fasta")
-seq2 = SeqIO.read("C:\\Users\\lulud\\OneDrive\\Desktop\\New folder\\beta.faa", "fasta")
+seq1 = SeqIO.read("alpha.faa", "fasta")
+seq2 = SeqIO.read("beta.faa", "fasta")
 globalAlig(seq1 , seq2)
 localAlig(seq1 , seq2)
 globalAffinGapAlig(seq1 , seq2, 2 , -1 , -0.5 , -0.1)
