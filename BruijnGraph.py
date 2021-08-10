@@ -1,10 +1,3 @@
-#Genomics Project
-#Made by:-
-#Farida Alaaeldin
-#Mohamed Ezzat
-#Muhammad Sobhy
-
-
 ################################################# READ FILE FUNCTIONS #################################################
 
 def readtxtSingleRead (path):
